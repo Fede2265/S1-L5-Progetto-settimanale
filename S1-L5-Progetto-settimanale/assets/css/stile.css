@@ -1,0 +1,215 @@
+/* IMPOSTAZIONI GENERALI */
+html, body {
+    color: #393d41;
+    font-size: 1.2rem;
+    line-height: 1.65;
+    font-family: 'Open Sans', sans-serif; 
+    margin: 0px;
+    width: 100%;
+}
+
+
+/* HEADER */
+header {
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+
+#logo {
+    background-color: black;
+    padding: 25px; 
+}
+
+
+#intestazione {
+    background-image:url(../images/banner.jpg);
+    box-sizing: border-box;
+    height: 47vh;
+    background-position: center;
+    
+}
+
+header h1 {
+    color: #25a2c3;
+    padding: 40px;
+    font-size: 2rem;
+    line-height: 1;
+}
+
+
+header p {
+    font-size: 16px;
+    line-height: 2;
+    padding: 4px;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 28px;
+    color: black;
+}
+
+
+
+header img {
+    height: 50px;
+}
+
+header a {
+    background-color: #fe4523;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 30px 10px 30px;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    border-radius: 4px;
+}
+
+
+
+/* MAIN */
+
+main h3 {
+    color: #27a3cb;
+    text-align: center;
+    line-height: 2rem;
+    margin-bottom: 15px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+main p {
+    text-align: center;
+    line-height: 2rem;
+    margin-bottom: 25px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+main div {
+    text-align: center;    
+}
+
+#immagineMain{
+    border-radius: 300px;
+    margin: 0 auto;
+}
+
+
+
+/* CITAZIONE */
+
+
+#citazione {
+    background-color: #f13d00;
+    color: #ffffff;
+    height: 37vh;
+    margin-bottom: 55px;
+}
+
+#citazione h2 {
+    font-weight: bolder;
+    padding: 36px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: xx-large;
+}
+
+#citazione blockquote p {
+    font-style: italic;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: smaller;
+}
+
+#citazione cite {
+    font-size: 0.8rem;
+}
+
+#citazione h4 {
+    font-size: 1.2rem;
+    margin-bottom: -12px;
+}
+
+
+
+/* ASIDE */
+
+aside {
+    text-align: center;
+    padding: 5%;
+    margin-bottom: 20px;
+    line-height: 1px;
+}
+
+aside div {
+    border: 1px solid #e3e3e3;
+    margin-bottom: 20px;
+
+}
+
+
+aside div img {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+
+aside div p {
+    font-size: 0.9rem;
+    margin: 30px 30px 50px 30px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+/* FOOTER */
+
+
+footer {
+    background-color: #25a2c3;
+    color: #c8e7f0;
+    text-align: center;
+    padding: 42px;
+
+}
+
+
+footer a {
+    color: #c8e7f0;
+}
+
+footer h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-size: 1.5rem;
+    margin-bottom: 15px;
+}
+
+footer ul {
+    margin-bottom: 40px;
+    list-style: none;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1rem;
+}
+
+
+footer hr {
+    margin-bottom: 30px;
+}
+
+footer p {
+    font-size: 1rem;
+}
+
+footer i {
+    color: #fffffe;
+}
+
+footer hr {
+    width: 55%;
+    color: #b3dcf2;
+}
